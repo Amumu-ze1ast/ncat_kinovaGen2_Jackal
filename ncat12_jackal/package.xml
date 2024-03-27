@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package>
+	<name>ncat12_jackal</name>
+	<version>0.0.0</version>
+	<description>A repository for the NCAT12 Jackal project. The robot has a Kinova Gen 2 (Jaco 2) arm and Velodyne HDL-32e lidar.</description>
+	<maintainer email="code@clearpathrobotics.com">Clearpath Team</maintainer>
+	<license>BSD</license>
+	<buildtool_depend>catkin</buildtool_depend>
+	<run_depend>jackal_bringup</run_depend>
+	<run_depend>jackal_description</run_depend>
+</package>
+
